@@ -1,0 +1,13 @@
+footer {
+        background-color: #00FF00;
+        height: 60px;
+        width: 100%;
+        text-align: center;
+        position: fixed;
+        bottom: 0px;
+}
+
+footer p {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 17px;
+}
