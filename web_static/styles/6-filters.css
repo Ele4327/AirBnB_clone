@@ -63,6 +63,8 @@
         -moz-transition: all 1.5s ease-in-out;
         -webkit-transition: all 1.5s ease-in-out;
         -o-transition: all 1.5s ease-in-out;
+        z-index: 1;
+        min-height: 93px;
 }
 
 .filters div .popover h2 {
