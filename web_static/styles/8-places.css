@@ -18,10 +18,10 @@
         position: relative;
 }
 
-.adjus_artcl {
-        float: none !important;
-        display: table !important;
-        margin: auto !important;
+.places article.adjus_artcl {
+        display: table;
+        margin: auto;
+        float: none;
 }
 
 .places article h2 {
@@ -100,4 +100,5 @@
 
 .places article .description p {
         margin: 0px;
+        min-height: 138px;
 }
